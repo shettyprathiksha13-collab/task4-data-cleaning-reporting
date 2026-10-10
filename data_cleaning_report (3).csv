@@ -1,0 +1,6 @@
+Metric,Value
+Original number of rows,10
+Rows after cleaning,9
+Duplicate rows removed,1
+Missing values before cleaning,2
+Missing values after cleaning,0
